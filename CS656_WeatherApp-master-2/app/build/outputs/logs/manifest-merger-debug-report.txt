@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/f435086d2063449f86c5ecf8ba2e1c77/design-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/3be6e2b298f7ce6814fc7adf97858a54/appcompat-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/4c80c8ee141a3df4dd63755313ed0823/support-v4-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/b7523a591d1f3b16fd12115118a00fd6/cardview-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.diogobernardino:williamchart:2.2] /Users/LB/.gradle/caches/transforms-2/files-2.1/9b1de640c8fdf6a0bb3ba7cc7a71a3ba/williamchart-2.2/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/1dffb3507a76584a3820c90ad29432d9/recyclerview-v7-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/LB/.gradle/caches/transforms-2/files-2.1/c33838df7ee8a7c79c8a8915fd94ce59/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/933f3bfa839305120a007079ca95f0cc/support-fragment-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/1734c377f84778276f9c70a1c9320f81/animated-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/538a7bcb70d2290be98c8cfd53628197/support-core-ui-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/8c00bf5bceb97c729caf614a82fd89b4/support-core-utils-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/7e14c8e678e33ed4303e96e4c7293465/support-vector-drawable-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/1b3cfe9e752f610343201c5d08d3d1ff/transition-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/6a29c9180c86644cb7b6fda39e011f11/support-media-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/eca680df61ecfe3adc4e697ffde78153/support-compat-27.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/b311143dc2c62f3cfa82e637e46d679c/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/9baf189892bdcd71960ed5fbd866316b/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/40227f4ed696287ec96b7c1f9aaf7636/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/eef90b9a0443c52f697f2befd53a32d3/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/eaf6150f79595cb1b380b24e7b7118e1/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:11:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/LB/.gradle/caches/transforms-2/files-2.1/c33838df7ee8a7c79c8a8915fd94ce59/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/LB/.gradle/caches/transforms-2/files-2.1/c33838df7ee8a7c79c8a8915fd94ce59/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:22:5-28:19
+	android:supportsRtl
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:15:9-41
+	android:fullBackupContent
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:12:9-35
+activity#CS656_WeatherApp.activities.MainActivity
+ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:20:13-44
+	android:name
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:18:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:23:27-74
+activity#CS656_WeatherApp.activities.SettingsActivity
+ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:26:9-28:47
+	android:theme
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:28:13-44
+	android:name
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:27:13-72
+uses-sdk
+INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/f435086d2063449f86c5ecf8ba2e1c77/design-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/f435086d2063449f86c5ecf8ba2e1c77/design-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/3be6e2b298f7ce6814fc7adf97858a54/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/3be6e2b298f7ce6814fc7adf97858a54/appcompat-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/4c80c8ee141a3df4dd63755313ed0823/support-v4-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/4c80c8ee141a3df4dd63755313ed0823/support-v4-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/b7523a591d1f3b16fd12115118a00fd6/cardview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/b7523a591d1f3b16fd12115118a00fd6/cardview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.diogobernardino:williamchart:2.2] /Users/LB/.gradle/caches/transforms-2/files-2.1/9b1de640c8fdf6a0bb3ba7cc7a71a3ba/williamchart-2.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.diogobernardino:williamchart:2.2] /Users/LB/.gradle/caches/transforms-2/files-2.1/9b1de640c8fdf6a0bb3ba7cc7a71a3ba/williamchart-2.2/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/1dffb3507a76584a3820c90ad29432d9/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/1dffb3507a76584a3820c90ad29432d9/recyclerview-v7-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/LB/.gradle/caches/transforms-2/files-2.1/c33838df7ee8a7c79c8a8915fd94ce59/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/LB/.gradle/caches/transforms-2/files-2.1/c33838df7ee8a7c79c8a8915fd94ce59/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/933f3bfa839305120a007079ca95f0cc/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/933f3bfa839305120a007079ca95f0cc/support-fragment-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/1734c377f84778276f9c70a1c9320f81/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/1734c377f84778276f9c70a1c9320f81/animated-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/538a7bcb70d2290be98c8cfd53628197/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/538a7bcb70d2290be98c8cfd53628197/support-core-ui-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/8c00bf5bceb97c729caf614a82fd89b4/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/8c00bf5bceb97c729caf614a82fd89b4/support-core-utils-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/7e14c8e678e33ed4303e96e4c7293465/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/7e14c8e678e33ed4303e96e4c7293465/support-vector-drawable-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/1b3cfe9e752f610343201c5d08d3d1ff/transition-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/1b3cfe9e752f610343201c5d08d3d1ff/transition-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/6a29c9180c86644cb7b6fda39e011f11/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/6a29c9180c86644cb7b6fda39e011f11/support-media-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/eca680df61ecfe3adc4e697ffde78153/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/eca680df61ecfe3adc4e697ffde78153/support-compat-27.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/b311143dc2c62f3cfa82e637e46d679c/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/b311143dc2c62f3cfa82e637e46d679c/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/9baf189892bdcd71960ed5fbd866316b/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/9baf189892bdcd71960ed5fbd866316b/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/40227f4ed696287ec96b7c1f9aaf7636/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/40227f4ed696287ec96b7c1f9aaf7636/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/eef90b9a0443c52f697f2befd53a32d3/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/eef90b9a0443c52f697f2befd53a32d3/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/eaf6150f79595cb1b380b24e7b7118e1/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/eaf6150f79595cb1b380b24e7b7118e1/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:24:13-83

@@ -1,0 +1,81 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.application.CS656_WeatherApp"
+4    android:versionCode="49"
+5    android:versionName="1.14" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="27" />
+9-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:6:5-79
+12-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:7:5-81
+13-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:8:5-79
+14-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+15-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:9:5-81
+15-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:9:22-78
+16
+17    <application
+17-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:11:5-30:19
+18        android:allowBackup="true"
+18-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:12:9-35
+19        android:debuggable="true"
+20        android:fullBackupContent="true"
+20-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:13:9-41
+21        android:icon="@drawable/icon"
+21-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:14:9-38
+22        android:label="CS656_WeatherApp"
+22-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:15:9-41
+23        android:supportsRtl="true"
+23-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:16:9-35
+24        android:testOnly="true" >
+25        <activity
+25-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:17:9-25:20
+26            android:name="CS656_WeatherApp.activities.MainActivity"
+26-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:18:13-68
+27            android:label="CS656_WeatherApp"
+27-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:19:13-45
+28            android:theme="@style/AppTheme" >
+28-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:20:13-44
+29            <intent-filter>
+29-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:21:13-24:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:22:17-69
+30-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:22:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:23:17-77
+32-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:23:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity
+35-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:26:9-28:47
+36            android:name="CS656_WeatherApp.activities.SettingsActivity"
+36-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:27:13-72
+37            android:theme="@style/AppTheme" />
+37-->/Users/LB/Downloads/CS656_WeatherApp-master-2/app/src/main/AndroidManifest.xml:28:13-44
+38
+39        <provider
+39-->[android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:23:9-27:43
+40            android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"
+40-->[android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:24:13-83
+41            android:authorities="com.application.CS656_WeatherApp.lifecycle-trojan"
+41-->[android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:25:13-68
+42            android:exported="false"
+42-->[android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:26:13-37
+43            android:multiprocess="true" />
+43-->[android.arch.lifecycle:extensions:1.1.1] /Users/LB/.gradle/caches/transforms-2/files-2.1/20c81e5c56d3b9f6f94749db2b4ca94c/extensions-1.1.1/AndroidManifest.xml:27:13-40
+44    </application>
+45
+46</manifest>

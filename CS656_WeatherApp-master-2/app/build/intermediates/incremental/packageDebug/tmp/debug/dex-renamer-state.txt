@@ -1,0 +1,4 @@
+#Sun May 03 21:13:20 EDT 2020
+base.0=/Users/LB/Downloads/CS656_WeatherApp-master-2/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
